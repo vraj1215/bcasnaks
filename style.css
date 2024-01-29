@@ -159,3 +159,12 @@ header nav ul{
 }
 
 
+@media screen and (max-width:678px){
+    .slider .content div:nth-child(2){
+        font-size: 2rem;
+        
+    }
+    .slider .content div:nth-child(1){
+        padding: 2rem 0;
+    }
+}
